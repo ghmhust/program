@@ -92,6 +92,8 @@
     <ClCompile Include="..\ACM\str2int.cpp" />
     <ClCompile Include="..\ACM\strfirst.cpp" />
     <ClCompile Include="..\ACM\treeprintZ.cpp" />
+    <ClCompile Include="permute.cpp" />
+    <ClCompile Include="string.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
